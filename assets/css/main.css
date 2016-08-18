@@ -1,1 +1,44 @@
 /* custom styles */
+header {
+	text-align: center;
+}
+
+nav {
+	display: inline-block;
+}
+
+body {
+	background-color: black;
+}
+
+.hero-image {
+	display: block;
+    margin: 0 auto;
+    width: 75%;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: fantasy;
+
+}
+
+a {
+	color: white;
+	display: inline-block;
+	text-decoration: none;
+	font-family: fantasy;
+	text-align: center;
+}
+
+a:hover {
+	color: grey;
+}
+
+footer {
+	text-align: center;
+	padding: 25em 0; 
+	color: white;
+	font-family: fantasy;
+}
