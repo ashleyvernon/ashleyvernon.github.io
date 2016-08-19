@@ -20,9 +20,9 @@ body {
     border-radius: 80%;
 }
 
-/*@media (max-width: 500px) { 
+@media (max-width: 500px) { 
 
-}*/
+}
 h1 {
 	color: #e4e4c6;
 	text-align: center;
