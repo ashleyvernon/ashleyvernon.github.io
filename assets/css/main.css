@@ -26,7 +26,7 @@ body {
 h1 {
 	color: #e4e4c6;
 	text-align: center;
-	font-family: fantasy;
+	font-family: Lobster;
 
 }
 
@@ -34,7 +34,7 @@ a {
 	color: #e4e4c6;
 	display: inline-block;
 	text-decoration: none;
-	font-family: fantasy;
+	font-family: Oswald;
 	text-align: center;
 	margin: 10px 50px 80px;
 }
@@ -50,5 +50,5 @@ a:hover {
 footer {
 	text-align: center; 
 	color: #e4e4c6;
-	font-family: fantasy;
+	font-family: Lobster;
 }

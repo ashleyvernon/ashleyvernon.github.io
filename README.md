@@ -1,3 +1,7 @@
+Create a simple portfolio that will display my contact information, my linkedin, my personal web blog and 
+
+
+
 # Learn Git Training
 
 1. Create a fork of the [this](https://github.com/sf-wdi-31/personal-portfolio) by clicking "Fork" on the top right.
