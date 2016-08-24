@@ -1,6 +1,11 @@
 /* custom styles */
+@media (max-width: 500px) { 
+
+}
+
 header {
 	text-align: center;
+	height: 100vh;
 }
 
 nav {
@@ -9,6 +14,11 @@ nav {
 
 body {
 	background-color: #333033;
+}
+
+#my-work {
+	background-color: #b39f9f;
+	height: 100vh;
 }
 
 .hero-image {
@@ -20,14 +30,20 @@ body {
     border-radius: 80%;
 }
 
-@media (max-width: 500px) { 
 
-}
 h1 {
 	color: #e4e4c6;
 	text-align: center;
 	font-family: Lobster;
 
+}
+
+h2 {
+	color: #333033;
+	text-align: center;
+	font-family: Lobster;
+	font-size: 32px;
+	padding-top: 31px;
 }
 
 a {
@@ -42,6 +58,15 @@ a {
 a:hover {
 	color: grey;
 }
+
+
+ul {
+	list-style: none;
+	font-size: 28px;
+
+}
+
+
 
 #page-wrapper {
 	margin-bottom: ; 
