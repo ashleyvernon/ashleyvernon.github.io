@@ -287,6 +287,11 @@ header .header-content .header-content-inner p {
     font-size: 22px;
   }
 }
+@media (min-width: 1200px) {
+  .col-lg-offset-1 {
+      margin-left: 12.333333%;
+  }
+}
 .call-to-action h2 {
   margin: 0 auto 20px;
 }
